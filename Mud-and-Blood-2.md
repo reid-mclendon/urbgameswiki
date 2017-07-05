@@ -1,5 +1,3 @@
-# Mud and Blood 2
-
 ### [👁️ Overview]()
 Here is your basic information about the game that we all love, Mud and Blood 2!
 
